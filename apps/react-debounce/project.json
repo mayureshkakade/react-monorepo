@@ -1,0 +1,8 @@
+{
+  "name": "react-debounce",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/react-debounce/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
