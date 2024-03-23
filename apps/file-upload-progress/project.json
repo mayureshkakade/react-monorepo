@@ -1,0 +1,8 @@
+{
+  "name": "file-upload-progress",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/file-upload-progress/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
