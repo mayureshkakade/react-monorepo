@@ -1,9 +1,8 @@
 {
-  "name": "react-debounce-e2e",
+  "name": "intersection-observer",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/intersection-observer/src",
   "projectType": "application",
-  "sourceRoot": "apps/react-debounce-e2e/src",
   "targets": {},
-  "implicitDependencies": ["react-debounce"],
   "tags": []
 }
