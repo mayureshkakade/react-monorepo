@@ -1,0 +1,8 @@
+.initial.transition {
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
+}
+
+.initial {
+  opacity: 0;
+}
